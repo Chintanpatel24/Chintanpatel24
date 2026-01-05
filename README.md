@@ -78,10 +78,10 @@
  
 ## 🏆 GitHub Achievements 🏆 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chintan-patel-24&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chintanpatel24&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chintan-patel-24&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chintanpatel24&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 </dev>
@@ -246,11 +246,11 @@
 
   <a href="https://github.com/Chintan-patel-24">
     <p align="center">
-      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chintan-patel-24&show_icons=true&theme=dark&hide_border=true" />
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=<chintan-patel-24&theme=dark&hide_border=true" />
-      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chintan-patel-24&theme=dark&hide_border=true"/>
-      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chintan-patel-24&theme=dark&hide_border=true"/>
-      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chintan-patel-24&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chintanpatel24&show_icons=true&theme=dark&hide_border=true" />
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Chintanpatel24&theme=dark&hide_border=true" />
+      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chintanpatel24&theme=dark&hide_border=true"/>
+      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chintanpatel24&theme=dark&hide_border=true"/>
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chintanpatel24&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
     </p>
   </a>
   
@@ -259,9 +259,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chintan-patel-24&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Chintan-patel-24?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Chintan-patel-24?label=Stars&style=social" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Chintanpatel24&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Chintanpatel24?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Chintanpatel24?label=Stars&style=social" alt="stars" />
 </p>
 
 ---
