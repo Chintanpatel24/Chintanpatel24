@@ -46,8 +46,6 @@
 </a>
 <a> <img src="https://cdn.jim-nielsen.com/ios/512/reddit-2025-04-13.png?rf=1024"  alt="reddit" width="45" height="45">
 </a>
-<a> <img src="https://i.pinimg.com/736x/86/0c/87/860c87633f4de3aae800d9c948cbebdd.jpg" alt="pinterest" width="45" height="45"> 
-</a>
 <a> <img src="https://cdn-icons-png.flaticon.com/512/124/124019.png" alt="telegram" width="45" height="45">
 </a>
 <a> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" width="45" height="45">
