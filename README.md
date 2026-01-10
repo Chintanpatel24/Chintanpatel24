@@ -109,6 +109,8 @@
 </a>
 <a> <img src="https://p7.hiclipart.com/preview/142/501/101/xfce-xubuntu-logo-desktop-environment-post-it-note-blue-badge.jpg" alt="xfce" width="45" height="45">
 </a>
+<a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzAfXPNW7Ws6uIm2gbEzvc-HH9gUzpWwyUaA&amp;s" alt="google labs" width="45" height="45">
+</a>
 <a>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm7tetkj4ONOkHNPGs6Gwgu2C8GX1JbwFBVg&amp;s" alt="Antigravity" width="45" height="45">
 </a>
 <a> <img src="https://pbs.twimg.com/profile_images/1906737039724400640/aUuTetdY_400x400.jpg" alt="langflow" width="45" height="45">
