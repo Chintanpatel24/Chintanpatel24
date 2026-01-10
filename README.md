@@ -109,6 +109,8 @@
 </a>
 <a> <img src="https://p7.hiclipart.com/preview/142/501/101/xfce-xubuntu-logo-desktop-environment-post-it-note-blue-badge.jpg" alt="xfce" width="45" height="45">
 </a>
+<a>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm7tetkj4ONOkHNPGs6Gwgu2C8GX1JbwFBVg&amp;s" alt="Antigravity" width="45" height="45">
+</a>
 <a> <img src="https://pbs.twimg.com/profile_images/1906737039724400640/aUuTetdY_400x400.jpg" alt="langflow" width="45" height="45">
 </a>
 <a>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS4jNurSmM7FW_XcdATK_epGi0Q6CXHCPiyA&amp;s" alt="gnome" width="45" height="45">
@@ -164,6 +166,7 @@
  </a>
  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kali-Dark.svg" alt="kali" width="45" height="45">
  </a>
+
 
 </div>
 
