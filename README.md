@@ -255,6 +255,7 @@
       <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chintanpatel24&theme=dark&hide_border=true"/>
       <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chintanpatel24&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
     </p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chintanpatel24&theme=dark)](https://git.io/streak-stats)
   </a>
   
 </div>
