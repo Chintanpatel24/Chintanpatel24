@@ -64,7 +64,8 @@
 <div align=center>
  
 ##  Contacts :speech_balloon:
- 
+
+<a herf = "https://gist.github.com/chintanpatel24"><img src="https://img.shields.io/badge/Github%20-Gist-blue?logo=github" target="_blank"></a>_ _
  <a href = "mailto:chintanpatel02407@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>_
  _<a href="https://www.linkedin.com/in/chintan-patel24/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
