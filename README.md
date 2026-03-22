@@ -269,3 +269,5 @@
   <img src="https://img.shields.io/github/followers/Chintanpatel24?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/Chintanpatel24?label=Stars&style=social" alt="stars" />
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff7,100:0d0d0d&height=120&section=footer&animation=twinkling" width="100%"/>
+
