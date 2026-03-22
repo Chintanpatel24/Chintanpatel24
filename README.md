@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff7,100:0d0d0d&height=120&section=header&animation=twinkling" width="100%"/>
 <div align=center>
  
  # 💫 About Me.  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
@@ -269,5 +270,6 @@
   <img src="https://img.shields.io/github/followers/Chintanpatel24?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/Chintanpatel24?label=Stars&style=social" alt="stars" />
 </p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff7,100:0d0d0d&height=120&section=footer&animation=twinkling" width="100%"/>
 
