@@ -9,9 +9,6 @@
 
 ---
 
-<div align=center>
-<h1> 💻 Tech stack 💻 </h1>
-
  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" alt="arduino" width="45" height="45">
 </a>
  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Illustrator.svg" alt="ai" width="45" height="45">
@@ -146,19 +143,6 @@
  
 ---
 
-<div align=center>
- 
-## 📈 Financial literacy 📉
-
-<img src="https://public.bnbstatic.com/20190405/eb2349c3-b2f8-4a93-a286-8f86a62ea9d8.png" alt="bunance" width="45" height="45">
-<img src="https://play-lh.googleusercontent.com/8lMo-DTtU9O10OXPr_gZYQOnYfFg6BGPgwRKnx88sczAOivcQ6M7ln_ukIp--OVtAB8" alt="meta trade" width="45" height="45">
-<img src="https://play-lh.googleusercontent.com/LHjOai6kf1IsstKNWO9jbMxD-ix_FVYaJSLodKCqYQdoFVzQBuV9z5txxzcTagQcyX8=w240-h480-rw" alt="grow" width="45" height="45">
-<img src="https://play-lh.googleusercontent.com/PjoJoG27miSglVBXoXrxBSLveV6e3EeBPpNY55aiUUBM9Q1RCETKCOqdOkX2ZydqVf0" alt="coinbash" width="45" height="45">
-<img src="https://play-lh.googleusercontent.com/Mz83heom_8jnRplnSDxZFJ3WMz7EpMARiMZPkKTHpWF2HAh9DZTJFphjLTSWxfTa_g" alt="trading view" width="45" height="45">
-<img src="https://play-lh.googleusercontent.com/wnNYBAH1m-XJMfduOHfEATQAhCwyKUYeHAD1Fi9-OjtxKyPKjFEmgWvbx-OX2dM65xjp" alt="zerodha kite" width="45" height="45">
-<img src="https://yt3.googleusercontent.com/3baJDinAvXHt20hGgcK93Z9li2PXBEOP8u9chdmClUSfUdhMu-t8yCtDIeCQo24qCY8m8vMa=s900-c-k-c0x00ffffff-no-rj" alt="wazirx" width="45" height="45">
-
----
 <p align="center">
   <a href="https://leetcode.com//" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="145" width="145" /></a>
   <a href="https://leetcode.com//" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="145" width="145" /></a>
@@ -170,8 +154,6 @@
 
 <div align=center>
  
-## 👨‍💻 GitHub Stats 👨‍💻
-
   <a href="https://github.com/Chintan-patel-24">
     <p align="center">
      <img heigth="160em" src="https://github-readme-stats.vercel.app/api?username=Chintanpatel24&show_icons=true&theme=dark&border_colour=white&icon_color=ff4080&title_color=White&hide_border=true&text_color=c8c8c8&count_private=true&rank_icon=github"/>
@@ -185,12 +167,3 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chintanpatel24&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Chintanpatel24?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Chintanpatel24?label=Stars&style=social" alt="stars" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff7,100:0d0d0d&height=120&section=footer&animation=twinkling" width="100%"/>
-
