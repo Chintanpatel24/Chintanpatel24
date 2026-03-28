@@ -1,9 +1,5 @@
 
 <div align=center>
- 
-## 🏆 GitHub Achievements 🏆 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Chintanpatel24&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chintanpatel24&theme=tokyo-night&hide_border=true" width="95%"/>
