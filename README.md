@@ -8,7 +8,7 @@
       <img heigth="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chintanpatel24&theme=github_dark&hide_border=true"/>
       <img heigth="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chintanpatel24&theme=github_dark&border_color=white"/>
       <img heigth="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chintanpatel24&langs_count=20&layout=compact&theme=github_dark&bg_color=070d0d&border_color=white&title_color=orange&text_color=white&hide_border=true"/>
-
+<img height="155em" src="https:gitly-iota.vercel.app/api/pull-requests?username=Chintanpatel24&theme=synthwave&hide_border=true&bg_color=070d0d&border_color=white&title_color=orange&text_color=white" alt="Pull Requests"/>
   </a>
 
 ---
