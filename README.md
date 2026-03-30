@@ -7,9 +7,6 @@
       <img heigth="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Chintanpatel24&theme=github_dark&background=dark&border=white&stroke=white&ring=orange&fire=orange&hide_border=true&currStreakLabel=orange&sideLabels=white&dates=808080"/>
       <img heigth="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chintanpatel24&theme=github_dark&hide_border=true"/>
       <img heigth="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chintanpatel24&theme=github_dark&border_color=white"/>
-      <img heigth="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chintanpatel24&langs_count=20&layout=compact&theme=github_dark&bg_color=070d0d&border_color=white&title_color=orange&text_color=white&hide_border=true"/>
-
-
 <img src="https://gitlyy.vercel.app/api/contribution?username=Chintanpatel24&theme=dark&hide_border=true"/>
 <img src="https://gitlyy.vercel.app/api/languages?username=Chintanpatel24&theme=dark&hide_border=true"/>
 
