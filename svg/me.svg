@@ -1,4 +1,8 @@
- <!-- Quote text (centered) -->
+<svg width="600" height="340" xmlns="http://www.w3.org/2000/svg">
+  <!-- Decorative top line -->
+  <line x1="50" y1="30" x2="550" y2="30" stroke="#333" stroke-width="2"/>
+  
+  <!-- Quote text (centered) -->
   <text x="300" y="80" font-size="18" font-family="Georgia, serif" font-weight="bold" fill="#333" text-anchor="middle">
     <tspan x="300" dy="0">"Never delete your useless and unwanted work.</tspan>
     <tspan x="300" dy="35">It always carries something. If you delete it,</tspan>
