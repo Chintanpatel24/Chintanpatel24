@@ -5,7 +5,7 @@
 
 ---
 
-![worst experience](svg/me.svg)
+![worst experience](svg/worst.png)
 
 ---
 
