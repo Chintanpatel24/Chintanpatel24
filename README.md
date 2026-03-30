@@ -11,7 +11,7 @@
   </a>
 
 <img src="https://gitlyy.vercel.app/api/pr-stats?username=Chintanpatel24">
-<img src="https://gitlyy.vercel.app/api/contribution?username=Chintanpatel24">
+<img src="https://gitlyy.vercel.app/api/contribution?username=Chintanpatel24&hide_border=true"/>
 ---
 
 <div align=center>
