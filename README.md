@@ -5,10 +5,6 @@
 
 ---
 
-![worst experience](svg/worst.png)
-
----
-
 <div align=center>
 
   <a href="https://github.com/Chintan-patel-24">
@@ -31,4 +27,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chintanpatel24&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
-</dev>
+</div>
+
+---
+
+<div align=center>
+  
+![worst experience](svg/worst.png)
+
+</div>
