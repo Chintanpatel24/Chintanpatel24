@@ -1,0 +1,21 @@
+ <!-- Quote text (centered) -->
+  <text x="300" y="80" font-size="18" font-family="Georgia, serif" font-weight="bold" fill="#333" text-anchor="middle">
+    <tspan x="300" dy="0">"Never delete your useless and unwanted work.</tspan>
+    <tspan x="300" dy="35">It always carries something. If you delete it,</tspan>
+    <tspan x="300" dy="35">it will desperately change the look of your whole work."</tspan>
+  </text>
+  
+  <!-- Author (right side, stretched) -->
+  <text x="530" y="190" font-size="18" font-family="Georgia, serif" fill="#666" font-style="italic" font-weight="700" text-anchor="end" letter-spacing="3">
+    — Chintan Patel
+  </text>
+  
+  <!-- Strikethrough text -->
+  <text x="300" y="270" font-size="16" font-family="Georgia, serif" fill="#999" text-anchor="middle" font-weight="600">
+    <tspan x="300" dy="0">just like my commits history</tspan>
+  </text>
+  <line x1="120" y1="262" x2="480" y2="262" stroke="#999" stroke-width="2"/>
+  
+  <!-- Decorative bottom line -->
+  <line x1="50" y1="310" x2="550" y2="310" stroke="#333" stroke-width="2"/>
+</svg>
