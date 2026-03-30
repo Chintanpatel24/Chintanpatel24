@@ -9,8 +9,9 @@
       <img heigth="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chintanpatel24&theme=github_dark&border_color=white"/>
       <img heigth="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chintanpatel24&langs_count=20&layout=compact&theme=github_dark&bg_color=070d0d&border_color=white&title_color=orange&text_color=white&hide_border=true"/>
 
-<img src="https://gitlyy.vercel.app/api/contribution?username=Chintanpatel24&bg_color=010409&title_color=58a6ff&text_color=e6edf3&hide_border=true">
 
+<img src="https://gitlyy.vercel.app/api/contribution?username=Chintanpatel24&theme=dark&hide_border=true"/>
+<img src="https://gitlyy.vercel.app/api/languages?username=Chintanpatel24&theme=dark&hide_border=true"/>
 
 
 </a>
