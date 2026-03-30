@@ -1,7 +1,11 @@
 
-### • Like to get surrounded by screens 🫠 !!
-### • Love to understand the most complex systems 🧐 !!
-### • Trying to build new technology single-handedly 😤 ( ~~fails 1000+ times~~ 😑 , ~~still failing~~ 😭 )
+#### • Like to get surrounded by screens 🫠 !!
+#### • Love to understand the most complex systems 🧐 !!
+#### • Trying to build new technology single-handedly 😤 ( ~~fails 1000+ times~~ 😑 , ~~still failing~~ 😭 )
+
+---
+
+![worst experience](svg/me.svg)
 
 ---
 
