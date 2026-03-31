@@ -29,7 +29,6 @@
 
 ---
 
-<img src="https://gitlyy.vercel.app/api/working-hours?username=Chintanpatel24&hide_border=true"/>
 <img src="https://gitlyy.vercel.app/api/languages?username=Chintanpatel24&theme=dark&hide_border=true"/>
 
 ---
