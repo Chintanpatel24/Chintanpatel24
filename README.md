@@ -3,9 +3,9 @@
 </div>
 
 >##  Wounded life !!
-#### • Like to get surrounded by screens 🫠 !!
-#### • Love to understand the most complex systems 🧐 !!
-#### • Trying to build new technology single-handedly 😤 ( ~~fails 1000+ times~~ 😑 , ~~still failing~~ 😭 )
+#### • Like to get surrounded by screens 🫠,(~~had only one i3-3rd gen~~ 😵‍💫)
+#### • Love to understand the most complex Architecture and algorithms 🧐,(~~can't understand my own life~~ 😮‍💨)
+#### • Trying to build new technology single-handedly 👽,( ~~fails 1000+ times~~ 😑,~~still failing~~ 😭 )
 
 ---
 
