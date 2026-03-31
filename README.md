@@ -2,7 +2,7 @@
   <img src="svg/title.png">
 </div>
 
->## Looped open source life !!
+>##  Wounded life !!
 #### • Like to get surrounded by screens 🫠 !!
 #### • Love to understand the most complex systems 🧐 !!
 #### • Trying to build new technology single-handedly 😤 ( ~~fails 1000+ times~~ 😑 , ~~still failing~~ 😭 )
