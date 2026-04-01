@@ -27,11 +27,11 @@
 
 ---
 
+<img src="https://gitlyy.vercel.app/api/languages?username=Chintanpatel24&theme=dark&hide_border=true"/>
+<br>
 <img src="https://gitlyy.vercel.app/api/contribution?username=Chintanpatel24&layout=compact&hide_border=true"/>
 <br>
 <img src="https://gitlyy.vercel.app/api/commits?username=CHintanpatel24&layout=compact&hide_border=true"/>
-<br>
-<img src="https://gitlyy.vercel.app/api/languages?username=Chintanpatel24&theme=dark&hide_border=true"/>
 
 ---
 
