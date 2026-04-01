@@ -51,13 +51,3 @@
 </p>
 
 </div>
-
----
-
-<div align=center>
-  
-![worst experience](svg/worst.png)
-
-</div>
-
-
