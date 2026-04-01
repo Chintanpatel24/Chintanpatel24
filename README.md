@@ -19,8 +19,6 @@
 ---
 
 <img src="https://gitlyy.vercel.app/api/contribution?username=Chintanpatel24&hide_border=true"/>
-<img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chintanpatel24&theme=github_dark>
-<img heigth="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Chintanpatel24&theme=github_dark&background=dark&border=white&stroke=white&ring=orange&fire=orange&hide_border=true&currStreakLabel=orange&sideLabels=white&dates=808080"/>
 
 ---
 
