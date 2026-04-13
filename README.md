@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="svg/title.png">
+  <img src="title.png">
 </div>
 
 >##  Wounded Matrix !!
