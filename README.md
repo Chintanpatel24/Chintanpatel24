@@ -35,7 +35,7 @@
 
 ---
 
-<img src="https://gitlyy.vercel.app/api/pr-stats?username=CHintanpatel24&hide_border=true"/>
+<img src="https://gitlyy.vercel.app/api/pr-stats?username=Chintanpatel24&layout=compact&hide_border=true"/>
 
 ---
 
