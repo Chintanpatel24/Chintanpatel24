@@ -28,21 +28,9 @@
 ---
 
 <img src="https://gitlyy.vercel.app/api/languages?username=Chintanpatel24&theme=dark&hide_border=true"/>
-<br>
 <img src="https://gitlyy.vercel.app/api/streak?username=Chintanpatel24&hide_border=true"/>
-
----
-
 <img src="https://gitlyy.vercel.app/api/commits?username=CHintanpatel24&layout=compact&hide_border=true"/>
-<br>
 <img src="https://gitlyy.vercel.app/api/pr-stats?username=Chintanpatel24&layout=compact&hide_border=true"/>
-
----
-
-<img src="https://gitlyy.vercel.app/api/commits?username=Chintanpatel24&hide_border=true"/>
-
-</a>
-
 
 ---
 
