@@ -49,5 +49,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Chintanpatel24/Chintanpatel24/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" />
-  <img src="https://raw.githubusercontent.com/Chintanpatel24/Chintanpatel24/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" />
 </p>
