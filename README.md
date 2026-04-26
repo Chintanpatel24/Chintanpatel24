@@ -2,13 +2,6 @@
   <img src="title.png">
 </div>
 
->##  Wounded Matrix !!
-#### • Like to get surrounded by screens ,(~~had only one i3-3rd gen~~)
-#### • Trying to build new technology single-handedly ,(~~fails 1000+ times~~ ,~~still failing~~)
-#### • Love to understand the most complex Architecture and algorithms ,(~~can't understand my own life~~)
-
----
-
 <div align=center>
 
   <a href="https://github.com/Chintan-patel-24">
