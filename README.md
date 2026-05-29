@@ -4,11 +4,11 @@
 ```mermaid
 mindmap
 root)Larping(
- )if(
+ ) Wanna be yours(
   )Thinkpad(
    {{Gentoo}}
    Mint
- )else(
+ )Harnessing(
   )Hardware(     
    GPU : Intel 3rd Gen Core @ 1.10 GHz
    CPU : i3-3120M @ 2.50 GHz
@@ -25,7 +25,7 @@ root)Larping(
    CachyOS x86_64
    fish 4.7.1
    Linux 6.18.32-1-cachyos-lts
- )elif(
+ )Utilized(
   )Desktop(
    )Windows(
     Windows 7
@@ -57,17 +57,4 @@ root)Larping(
     Cinnamon
     Gnome
     MATE
-```
-
-</div>
-
-```bash
-alphabet = "abcdefghijklmnopqrstuvwxyz"
-for step in range(3):
-    if step == 0:
-        print(alphabet[8] + alphabet[5] + "=" + alphabet[5] + alphabet[20] + alphabet[19] + alphabet[20] + alphabet[17] + alphabet[4])
-    elif step == 1:
-        print(alphabet[4] + alphabet[11] + alphabet[8] + alphabet[5] + "=" + alphabet[15] + alphabet[0] + alphabet[18] + alphabet[19])
-    else:
-        print(alphabet[4] + alphabet[11] + alphabet[18] + alphabet[4] + "=" + alphabet[15] + alphabet[17] + alphabet[4] + alphabet[18] + alphabet[4] + alphabet[13] + alphabet[19])
 ```
