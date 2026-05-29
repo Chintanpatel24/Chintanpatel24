@@ -58,3 +58,26 @@ root)Larping(
     Gnome
     MATE
 ```
+
+```bash
+# The string containing the whole alphabet
+alphabet = "abcdefghijklmnopqrstuvwxyz"
+
+# Loop 3 times to trigger the statements one by one
+for step in range(3):
+    
+    # IF statement
+    if step == 0:
+        # i=8, f=5, =, f=5, u=20, t=19, u=20, r=17, e=4
+        print(alphabet[8] + alphabet[5] + "=" + alphabet[5] + alphabet[20] + alphabet[19] + alphabet[20] + alphabet[17] + alphabet[4])
+        
+    # ELIF statement
+    elif step == 1:
+        # e=4, l=11, i=8, f=5, =, p=15, a=0, s=18, t=19
+        print(alphabet[4] + alphabet[11] + alphabet[8] + alphabet[5] + "=" + alphabet[15] + alphabet[0] + alphabet[18] + alphabet[19])
+        
+    # ELSE statement
+    else:
+        # e=4, l=11, s=18, e=4, =, p=15, r=17, e=4, s=18, e=4, n=13, t=19
+        print(alphabet[4] + alphabet[11] + alphabet[18] + alphabet[4] + "=" + alphabet[15] + alphabet[17] + alphabet[4] + alphabet[18] + alphabet[4] + alphabet[13] + alphabet[19])
+```
