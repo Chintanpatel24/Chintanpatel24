@@ -3,7 +3,7 @@
   
 ```mermaid
 mindmap
-root((Larping with))
+root((Larping))
  For
   Desktop
    Windows
@@ -53,7 +53,7 @@ root((Larping with))
    CachyOS x86_64
    fish 4.7.1
    Linux 6.18.32-1-cachyos-lts
- DO
+ Do while
   Thinkpad
    Gentoo
    Mint
