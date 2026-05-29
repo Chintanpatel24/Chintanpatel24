@@ -4,7 +4,7 @@
 ```mermaid
 mindmap
 root((Larping with))
- Past
+ For
   Desktop
    Windows
     Windows 7
@@ -36,7 +36,7 @@ root((Larping with))
     Cinnamon
     Gnome
     MATE
- Present
+ While
   Hardware     
    GPU : Intel 3rd Gen Core @ 1.10 GHz
    CPU : i3-3120M @ 2.50 GHz
@@ -53,7 +53,7 @@ root((Larping with))
    CachyOS x86_64
    fish 4.7.1
    Linux 6.18.32-1-cachyos-lts
- Future
+ DO
   Thinkpad
    Gentoo
    Mint
