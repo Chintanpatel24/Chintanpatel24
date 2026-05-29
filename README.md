@@ -38,6 +38,9 @@ mindmap
       RAM : 8GB
       SATA-SSD : ~447GB usable 
     Software
+      CachyOS x86_64
+      Muffin X11
+      
       Linux 6.18.32-1-cachyos-lts
       
 ```
