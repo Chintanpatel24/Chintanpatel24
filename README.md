@@ -25,6 +25,9 @@ mindmap
       Hyperland
         custom dots  
       Cinnamon
+        GTK
       Gnome
- 
+        GTK
+      MATE
+        GTK
 ```
