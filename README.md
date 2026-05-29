@@ -41,6 +41,8 @@ root)Larping(
       Mint
      Fedora
      )Debian derivative(
+      Kicksecure
+       Whonix
       ParrotOS
       TailsOS
   )DEs(
