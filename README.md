@@ -40,7 +40,8 @@ mindmap
     Software
       CachyOS x86_64
       Muffin X11
-      
+      Cinnamon 6.6.8C850-1K3
+      fish 4.7.1
       Linux 6.18.32-1-cachyos-lts
       
 ```
