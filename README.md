@@ -6,14 +6,15 @@ mindmap
   root((Larping with))
    linux
     GrapheneOS
-    arch
-      cachy
-      manjaro
-    debian
-      kali
+    Arch
+      Vanilla
+      Cachy
+      Manjaro
+    Debian
+      Kali
     Ubuntu
       Mint
-    fedora
+    Fedora
     Debian derivative
       ParrotOS
       TailsOS
