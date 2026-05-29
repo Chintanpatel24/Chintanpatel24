@@ -32,9 +32,9 @@ mindmap
        Gnome
        MATE
   Specs
-    Hardware
-      Intel(R) Core(TM) i3-3120M (4) @ 2.50 GHz
-      Intel 3rd Gen Core processor Graphics Controller @ 1.10 GHz [Integrated]
+    Hardware     
+      Intel 3rd Gen Core processor Graphics Controller @ 1.10 GHz
+      i3-3120M @ 2.50 GHz
       RAM : 8GB
       SATA-SSD : ~447GB usable 
     Software
