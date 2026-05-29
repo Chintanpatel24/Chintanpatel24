@@ -26,6 +26,8 @@ root)Larping(
    fish 4.7.1
    Linux 6.18.32-1-cachyos-lts
  ) Selected for arsenal(
+   )Xen(
+    Qubes OS
    )Linux(
     GrapheneOS
     )Distros(
