@@ -4,11 +4,11 @@
 ```mermaid
 mindmap
 root)Larping(
- )while(
+ )if(
   )Thinkpad(
    {{Gentoo}}
    Mint
- )Do While(
+ )else(
   )Hardware(     
    GPU : Intel 3rd Gen Core @ 1.10 GHz
    CPU : i3-3120M @ 2.50 GHz
@@ -25,7 +25,7 @@ root)Larping(
    CachyOS x86_64
    fish 4.7.1
    Linux 6.18.32-1-cachyos-lts
- )For(
+ )elif(
   )Desktop(
    )Windows(
     Windows 7
