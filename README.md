@@ -3,8 +3,10 @@
   
 ```mermaid
 mindmap
-  root((Larping with))
-   Linux Distro
+ root((Larping with))
+  Linux
+   GrapheneOS
+   Distro
     GrapheneOS
     Arch
       Endeavour
@@ -19,7 +21,7 @@ mindmap
     Debian derivative
       ParrotOS
       TailsOS
-   DEs
+  DEs
       Xfce
       KDE Plasma
        custom dots
