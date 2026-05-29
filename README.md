@@ -36,5 +36,26 @@ root((Larping with))
     Cinnamon
     Gnome
     MATE
+ Present
+  Hardware     
+   GPU : Intel 3rd Gen Core @ 1.10 GHz
+   CPU : i3-3120M @ 2.50 GHz
+   RAM : 8GB
+   SATA-SSD : ~447GB usable 
+  Software
+   2 Desktop environments
+    Cinnamon 
+     Muffin X11
+     Cinnamon 6.6.8C850-1K3
+    Hyprland
+     Hyprland 0.55.2 (Wayland)
+     sddm 0.21.0 (Wayland)
+    CachyOS x86_64
+    fish 4.7.1
+    Linux 6.18.32-1-cachyos-lts
+ Future
+  Thinkpad
+   Gentoo
+   Mint
 
 ```
