@@ -25,7 +25,7 @@ root)Larping(
    CachyOS x86_64
    fish 4.7.1
    Linux 6.18.32-1-cachyos-lts
- )Utilized(
+ ) Selected for arsenal(
   )Desktop(
    )Windows(
     Windows 7
@@ -38,6 +38,7 @@ root)Larping(
      )Arch(
       Endeavour
       Vanilla
+      Black Arch
       Cachy
       Manjaro
      {{Debian}}
