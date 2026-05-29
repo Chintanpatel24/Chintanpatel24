@@ -4,7 +4,7 @@
 ```mermaid
 mindmap
   root((Larping with))
-   linux
+   Linux Distro
     GrapheneOS
     Arch
       Vanilla
