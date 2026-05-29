@@ -7,6 +7,7 @@ mindmap
    Linux Distro
     GrapheneOS
     Arch
+      Endeavour
       Vanilla
       Cachy
       Manjaro
@@ -20,14 +21,12 @@ mindmap
       TailsOS
    DEs
       Xfce
-      KDE
-       KDE-plasma
-      Hyperland
-        custom dots  
-      Cinnamon
-        GTK
-      Gnome
-        GTK
-      MATE
-        GTK
+      KDE Plasma
+       custom dots
+      Hyprland
+        custom dots
+      GTK with
+       Cinnamon
+       Gnome
+       MATE
 ```
