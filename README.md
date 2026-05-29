@@ -26,12 +26,6 @@ root)Larping(
    fish 4.7.1
    Linux 6.18.32-1-cachyos-lts
  ) Selected for arsenal(
-  )Desktop(
-   )Windows(
-    Windows 7
-    Windows XP
-    Windows Vista
-    Windows 10
    )Linux(
     GrapheneOS
     )Distros(
