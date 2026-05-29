@@ -18,5 +18,13 @@ mindmap
     Debian derivative
       ParrotOS
       TailsOS
-      
+   DEs
+      Xfce
+      KDE
+       KDE-plasma
+      Hyperland
+        custom dots  
+      Cinnamon
+      Gnome
+ 
 ```
