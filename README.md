@@ -3,7 +3,7 @@
   
 ```mermaid
 mindmap
-  root((Chintan patel))
+  root((Larping with))
    linux
     GrapheneOS
     arch
