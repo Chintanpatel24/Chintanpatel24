@@ -33,8 +33,8 @@ mindmap
        MATE
   Specs
     Hardware     
-      Intel 3rd Gen Core processor Graphics Controller @ 1.10 GHz
-      i3-3120M @ 2.50 GHz
+      GPU : Intel 3rd Gen Core @ 1.10 GHz
+      CPU : i3-3120M @ 2.50 GHz
       RAM : 8GB
       SATA-SSD : ~447GB usable 
     Software
