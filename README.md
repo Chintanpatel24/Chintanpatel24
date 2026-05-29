@@ -29,6 +29,8 @@ root)Larping(
    )Xen(
     Qubes OS
    )Linux(
+    )Shell(
+     bash
     GrapheneOS
     )Distros(
      )Arch(
