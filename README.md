@@ -48,8 +48,8 @@ root((Larping with))
      Muffin X11
      Cinnamon 6.6.8C850-1K3
     Hyprland
-     Hyprland 0.55.2 (Wayland)
-     sddm 0.21.0 (Wayland)
+     Hyprland 0.55.2-Wayland
+     sddm 0.21.0-Wayland
    CachyOS x86_64
    fish 4.7.1
    Linux 6.18.32-1-cachyos-lts
