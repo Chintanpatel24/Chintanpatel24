@@ -31,4 +31,13 @@ mindmap
        Cinnamon
        Gnome
        MATE
+  Specs
+    Hardware
+      Intel(R) Core(TM) i3-3120M (4) @ 2.50 GHz
+      Intel 3rd Gen Core processor Graphics Controller @ 1.10 GHz [Integrated]
+      RAM : 8GB
+      SATA-SSD : ~447GB usable 
+    Software
+      Linux 6.18.32-1-cachyos-lts
+      
 ```
