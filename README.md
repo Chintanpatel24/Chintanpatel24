@@ -3,11 +3,11 @@
   
 ```mermaid
 mindmap
- root((Larping with))
-  Linux
-   GrapheneOS
-   Distro
+root((Larping with))
+ Past
+   Linux
     GrapheneOS
+    Distro
     Arch
       Endeavour
       Vanilla
@@ -21,17 +21,18 @@ mindmap
     Debian derivative
       ParrotOS
       TailsOS
-  DEs
+    DEs
       Xfce
       KDE Plasma
        custom dots
       Hyprland
-        custom dots
+       custom dots
       GTK with
        Cinnamon
        Gnome
        MATE
-  Specs
+ Present
+   Specs
     Hardware     
       GPU : Intel 3rd Gen Core @ 1.10 GHz
       CPU : i3-3120M @ 2.50 GHz
@@ -43,5 +44,8 @@ mindmap
       Cinnamon 6.6.8C850-1K3
       fish 4.7.1
       Linux 6.18.32-1-cachyos-lts
-      
+ Future
+  Thinkpad
+  Gentoo
+
 ```
