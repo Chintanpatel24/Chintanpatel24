@@ -50,9 +50,9 @@ root((Larping with))
     Hyprland
      Hyprland 0.55.2 (Wayland)
      sddm 0.21.0 (Wayland)
-    CachyOS x86_64
-    fish 4.7.1
-    Linux 6.18.32-1-cachyos-lts
+   CachyOS x86_64
+   fish 4.7.1
+   Linux 6.18.32-1-cachyos-lts
  Future
   Thinkpad
    Gentoo
