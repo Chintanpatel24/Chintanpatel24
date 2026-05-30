@@ -3,7 +3,7 @@
   
 ```mermaid
 mindmap
-root)Larping(
+root)Life is Linux & Electronics(
  ) Wanna be yours(
   )Thinkpad(
    {{Gentoo}}
