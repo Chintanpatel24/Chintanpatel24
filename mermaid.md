@@ -1,0 +1,61 @@
+  ```mermaid
+mindmap
+root)Life is Linux & Electronics(
+ ) Wanna be yours(
+  )Thinkpad(
+   {{Gentoo}}
+   Mint
+ )Harnessing(
+  )Hardware(     
+   GPU : Intel 3rd Gen Core @ 1.10 GHz
+   CPU : i3-3120M @ 2.50 GHz
+   RAM : 8GB
+   SATA-SSD : ~447GB usable 
+  )Software(
+   )2 Environments(
+    )Cinnamon( 
+     Muffin X11
+     Cinnamon 6.6.8C850-1K3
+    )Hyprland(
+     Hyprland 0.55.2-Wayland
+     sddm 0.21.0-Wayland
+   CachyOS x86_64
+   fish 4.7.1
+   Linux 6.18.32-1-cachyos-lts
+ ) Selected for arsenal(
+   )Browsers(
+    Zen
+    Brave
+   )Xen(
+    Qubes OS
+   )Linux(
+    )Shell(
+     bash
+    GrapheneOS
+    )Distros(
+     )Arch(
+      Endeavour
+      Vanilla
+      Black Arch
+      Cachy
+      Manjaro
+     {{Debian}}
+      Kali
+     {{Ubuntu}}
+      Mint
+     Fedora
+     )Debian derivative(
+      Kicksecure
+       Whonix
+      ParrotOS
+      TailsOS
+  )DEs(
+   Xfce
+   )custom dots(
+    Hyprland
+    KDE Plasma
+   )GTK with(
+    Cinnamon
+    Gnome
+    MATE
+```
