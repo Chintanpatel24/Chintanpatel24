@@ -9,9 +9,9 @@
 
 
 <img src="https://ssr-contributions-svg.vercel.app/_/Chintanpatel24?chart=3dbar&gap=2&scale=2&flatten=0&light=1&gradient=false&legend=false&legendPosition=bottomLeft&strokeWidth=2&strokeColor=222222&animation=fall&format=svg&weeks=30&theme=chrome_pulse&dark=true">
+-->
 
-
-[![Chintanpatel24/flint](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=flint)](https://github.com/Chintanpatel24/flint)
+[![Chintanpatel24/.tar.gz-installer](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=.tar.gz-installer)](https://github.com/Chintanpatel24/.tar.gz-installer)
 [![Chintanpatel24/pinme](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=pinme)](https://github.com/Chintanpatel24/pinme)
 [![Chintanpatel24/arrowcode](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=arrowcode)](https://github.com/Chintanpatel24/arrowcode)
 [![Chintanpatel24/orion](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=orion)](https://github.com/Chintanpatel24/orion)
