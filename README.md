@@ -3,7 +3,7 @@
 [![Chintanpatel24/orion](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=orion&theme=transparent&stats=false)](https://github.com/Chintanpatel24/orion)
 [![Chintanpatel24/arrowcode](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=arrowcode&theme=transparent&stats=false)](https://github.com/Chintanpatel24/arrowcode)
 [![Chintanpatel24/.tar.gz-installer](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=.tar.gz-installer&theme=transparent&stats=false)](https://github.com/Chintanpatel24/.tar.gz-installer)
-[![Chintanpatel24/torot](https://pinme-git-jules-5690106497784603-b8ef4d-chiks-projects-bf6ff9ac.vercel.app/api/pin?user=Chintanpatel24&repo=torot&theme=transparent)](https://github.com/Chintanpatel24/torot)
+[![Chintanpatel24/torot](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=torot&theme=transparent&stats=false)](https://github.com/Chintanpatel24/torot)
 
 </div>
 
