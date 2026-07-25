@@ -8,6 +8,8 @@
 [![CHintanpatel24/pinme](https://pinme-web.vercel.app/api/pin?user=CHintanpatel24&repo=pinme&theme=transparent&stats=false&width=421)](https://github.com/CHintanpatel24/pinme)
 [![Chintanpatel24/.tar.gz-installer](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=.tar.gz-installer&theme=transparent&stats=false&width=421)](https://github.com/Chintanpatel24/.tar.gz-installer)
 [![Chintanpatel24/libi](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=libi&theme=transparent&stats=false&width=421)](https://github.com/Chintanpatel24/libi)
+[![Chintanpatel24/fiver](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=fiver&theme=transparent&stats=false&width=421)](https://github.com/Chintanpatel24/fiver)
+[![Chintanpatel24/cli-c](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=cli-c&theme=transparent&stats=false&width=421)](https://github.com/Chintanpatel24/cli-c)
 
 </div>
 
