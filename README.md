@@ -15,3 +15,20 @@
 </div>
 
 > Generated with [@Pinme](https://github.com/Chintanpatel24/pinme)
+
+
+<details>
+  <summary>
+    Stats
+  </summary>
+ <img src="https://gitlyy.vercel.app/api/contribution?username=Chintanpatel24&hide_border=true"/>
+  <img src="https://gitlyy.vercel.app/api/contribution?username=Chintanpatel24&layout=pulse&hide_border=true"/>
+  <img src="https://gitlyy.vercel.app/api/contribution?username=Chintanpatel24&layout=compact&hide_border=true"/>
+  <img src="https://gitlyy.vercel.app/api/languages?username=Chintanpatel24&hide_border=true"/>
+  <img src="https://gitlyy.vercel.app/api/languages?username=Chintanpatel24&layout=donut&hide_border=true"/>
+  <img src="https://gitlyy.vercel.app/api/issues?username=Chintanpatel24&hide_border=true"/>
+  <img src="https://gitlyy.vercel.app/api/pr-stats?username=Chintanpatel24&layout=compact&hide_border=true"/>
+  <img src="https://gitlyy.vercel.app/api/commits?username=Chintanpatel24&hide_border=true"/>
+  <img src="https://gitlyy.vercel.app/api/contribution?username=Chintanpatel24&layout=compact&hide_border=true"/>
+
+</details>
