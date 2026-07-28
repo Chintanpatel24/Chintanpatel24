@@ -30,6 +30,9 @@
   <img src="https://gitlyy.vercel.app/api/pr-stats?username=Chintanpatel24&layout=compact&hide_border=true"/>
   <img src="https://gitlyy.vercel.app/api/commits?username=Chintanpatel24&hide_border=true"/>
   <img src="https://gitlyy.vercel.app/api/contribution?username=Chintanpatel24&layout=compact&hide_border=true"/>
+  
+> Generated with [@Gitlyy](https://github.com/Chintanpatel24/gitlyy)
+  
 <div align=center>
  <img src="https://ssr-contributions-svg.vercel.app/_/Chintanpatel24?chart=3dbar&gap=0.6&scale=2&animation=raise&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=50&theme=green&dark=true&format=svg"> 
 </details>
