@@ -24,6 +24,8 @@
 [![Chintanpatel24/arrowcode](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&border=true&repo=arrowcode&theme=transparent&stats=false&width=410)](https://github.com/Chintanpatel24/arrowcode)
 [![Chintanpatel24/mipler](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=mipler&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/mipler)
 [![Chintanpatel24/ScrollerFrames](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=ScrollerFrames&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/ScrollerFrames)
+[![Chintanpatel24/portfolio-themes](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=portfolio-themes&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/portfolio-themes)
+[![Chintanpatel24/terminal-style](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=terminal-style&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/terminal-style)
 
 ### 6. Javascript
 [![CHintanpatel24/pinme](https://pinme-web.vercel.app/api/pin?user=CHintanpatel24&repo=pinme&border=true&theme=transparent&stats=false&width=410)](https://github.com/CHintanpatel24/pinme)
@@ -45,6 +47,7 @@
 ### 10.Markdown
 [![Chintanpatel24/TTT](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=TTT&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/TTT)
 [![Chintanpatel24/how-it-works](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=how-it-works&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/how-it-works)
+[![Chintanpatel24/GrapheneOS-Guide](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=GrapheneOS-Guide&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/GrapheneOS-Guide)
 
 > Generated with [@Pinme](https://github.com/Chintanpatel24/pinme)
 
