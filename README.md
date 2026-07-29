@@ -28,6 +28,9 @@
 ### 6. Javascript
 [![CHintanpatel24/pinme](https://pinme-web.vercel.app/api/pin?user=CHintanpatel24&repo=pinme&border=true&theme=transparent&stats=false&width=410)](https://github.com/CHintanpatel24/pinme)
 [![Chintanpatel24/gitlyy](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=gitlyy&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/gitlyy)
+[![Chintanpatel24/devcraft](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=devcraft&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/devcraft)
+[![Chintanpatel24/Gitcardlab](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=Gitcardlab&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/Gitcardlab)
+
 
 ### 7. C
 [![Chintanpatel24/cli-c](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=cli-c&theme=transparent&border=true&stats=false&width=410)](https://github.com/Chintanpatel24/cli-c)
