@@ -48,6 +48,7 @@
 [![Chintanpatel24/TTT](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=TTT&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/TTT)
 [![Chintanpatel24/how-it-works](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=how-it-works&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/how-it-works)
 [![Chintanpatel24/GrapheneOS-Guide](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=GrapheneOS-Guide&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/GrapheneOS-Guide)
+[![Chintanpatel24/Linux-familytree](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=Linux-familytree&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/Linux-familytree)
 
 > Generated with [@Pinme](https://github.com/Chintanpatel24/pinme)
 
