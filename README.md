@@ -14,18 +14,27 @@
 [![Chintanpatel24/fiver](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=fiver&border=true&theme=transparent&stats=false&width=410)](https://github.com/Chintanpatel24/fiver)
 [![Chintanpatel24/saternet](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=saternet&border=true&theme=transparent&stats=false&width=410)](https://github.com/Chintanpatel24/saternet)
 [![midwings/grudarin](https://pinme-web.vercel.app/api/pin?user=midwings&repo=grudarin&theme=transparent&border=true&stats=false&width=410)](https://github.com/midwings/grudarin)
+[![Chintanpatel24/Prexec](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=Prexec&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/Prexec)
 
-### 4. Typescript
+### 4. C++
+[![Chintanpatel24/my-free-agents](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=my-free-agents&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/my-free-agents)
+
+### 5. Typescript
+[![Chintanpatel24/flint](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=flint&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/flint)
 [![Chintanpatel24/arrowcode](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&border=true&repo=arrowcode&theme=transparent&stats=false&width=410)](https://github.com/Chintanpatel24/arrowcode)
+[![Chintanpatel24/mipler](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=mipler&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/mipler)
 
-### 5. Javascript
+### 6. Javascript
 [![CHintanpatel24/pinme](https://pinme-web.vercel.app/api/pin?user=CHintanpatel24&repo=pinme&border=true&theme=transparent&stats=false&width=410)](https://github.com/CHintanpatel24/pinme)
+[![Chintanpatel24/gitlyy](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=gitlyy&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/gitlyy)
 
-
-### 6. C
+### 7. C
 [![Chintanpatel24/cli-c](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=cli-c&theme=transparent&border=true&stats=false&width=410)](https://github.com/Chintanpatel24/cli-c)
 
-### 7. Html,Css
+### 8. Shell
+[![Chintanpatel24/awesome-fastfetch-collection](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=awesome-fastfetch-collection&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/awesome-fastfetch-collection)
+
+### 9. Html,Css
 [![Chintanpatel24/libi](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=libi&border=true&border=true&theme=transparent&stats=false&width=410)](https://github.com/Chintanpatel24/libi)
 
 
