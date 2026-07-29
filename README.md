@@ -15,6 +15,8 @@
 [![Chintanpatel24/saternet](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=saternet&border=true&theme=transparent&stats=false&width=410)](https://github.com/Chintanpatel24/saternet)
 [![midwings/grudarin](https://pinme-web.vercel.app/api/pin?user=midwings&repo=grudarin&theme=transparent&border=true&stats=false&width=410)](https://github.com/midwings/grudarin)
 [![Chintanpatel24/Prexec](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=Prexec&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/Prexec)
+[![Chintanpatel24/Neuryx](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=Neuryx&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/Neuryx)
+[![Chintanpatel24/Neuryx_v2](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=Neuryx_v2&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/Neuryx_v2)
 
 ### 4. C++
 [![Chintanpatel24/my-free-agents](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=my-free-agents&border=true&theme=transparent&stats=false&width=410&height=0)](https://github.com/Chintanpatel24/my-free-agents)
