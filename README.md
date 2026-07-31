@@ -1,5 +1,5 @@
 <div align=center>
-  !! Click on anyone to visit, use and contribute !!
+<h6 style="color: blue;"> Click on anyone to visit, use and contribute </h6>   
   
 |[![Chintanpatel24/flint](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=flint&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/flint)|[![Chintanpatel24/otter](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=otter&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/otter)|[![Chintanpatel24/torot](https://pinme-web.vercel.app/api/pin?user=Chintanpatel24&repo=torot&theme=transparent&show_size=true&show_license=true&show_issues=true&show_watchers=true&show_updated=true&show_badges=true&show_langs=true&langs_percentage=true)](https://github.com/Chintanpatel24/torot)|
 |:---|:---|:---|
