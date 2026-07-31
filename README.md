@@ -2,10 +2,10 @@
 <!--<h6 style="color: blue;"> Click on anyone to visit, use and contribute </h6>   -->
 
 ```
-                        ____________________                  _______________________________________
-                      < git commit -m "okay" >              / Click on anyone to visit, use and       \
-                       ---------------------               \\ contribute !!                           //
-                     /                                        ---------------------------------------
+                          ____________                          _______________________________________
+                        < echo "okay" >                       / Click on anyone to visit, use and       \
+                          ------------                       \\ contribute !!                           //
+                     /                                          ---------------------------------------
                    /                                                 \
              .--.                                                      \
             |o_o |                                                        ^__^
