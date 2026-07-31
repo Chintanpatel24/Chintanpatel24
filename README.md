@@ -3,7 +3,7 @@
 
 ```
                         ___________________                   _______________________________________
-                      < git commit -m "okay"  >             / Click on anyone to visit, use and       \
+                      < git commit -m "okay" >              / Click on anyone to visit, use and       \
                        ---------------------               \\ contribute !!                           //
                      /                                        ---------------------------------------
                    /                                                 \
