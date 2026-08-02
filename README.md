@@ -6,4 +6,4 @@ I use open source , swarm it- making with it -without spending my money on API b
 Open source helps me, so my every project is open source. <br>
 > That's why you can find a filemanager to own IDE and go from Linux dot files to Linux software
  
-Visit it here:[my projects](https://github.com/Chintanpatel24/pinme-Ex)
+Visit it here:[open source](https://github.com/Chintanpatel24/pinme-Ex)
