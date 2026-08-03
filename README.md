@@ -1,5 +1,5 @@
 ### hi, Aboutme !!
-I choose technology over fields, so I am not interested in one field like full-stack, ML, cybersecurity, hacking, app dev, etc..<br>
+I choose technology over fields, so I am not interested in one field like full-stack, ML, cybersecurity, hacking, app dev,w3, etc..<br>
 So there's no boundary for me - just a tech<br>
 and<br>
 I never code and maintain GitHub for hiring purposes.<br>
