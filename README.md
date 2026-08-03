@@ -1,9 +1,8 @@
 I never code and maintain GitHub for hiring purposes.<br>
-I code it because I want it. <br>
-Every project is created to satisfy my needs or to replace things which can't satisfy my expectations. <br>
+I code it because i want it& i enjoy it. <br>
+Every project I create solves a problem I have or replaces something that doesn’t meet my needs. <br>
 so <br>
 I use open source , swarm it- making with it -without spending my money on API bullies. <br>
-Open source helps me, so my every project is open source. <br>
-> That's why you can find a filemanager to own IDE and go from Linux dot files to Linux software
- 
+Since open source helps me, I make my own projects open source too <br>
+> You’ll find everything from file managers to full IDEs, and even tools that connect Linux dotfiles with larger software setups.
 Visit it here:[open source](https://github.com/Chintanpatel24/pinme-Ex)
