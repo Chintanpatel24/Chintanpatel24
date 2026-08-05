@@ -27,7 +27,7 @@ Since open source helps me, I make my own projects open source too <br>
     <td>
     
 <!-- ![Middle Metrics](./midd.svg) -->
-<img width="500" height="490" alt="toshiba" src="https://github.com/user-attachments/assets/fee78761-1229-49de-8de2-6f84e50c554c" />
+<img width="550" height="490" alt="toshiba" src="https://github.com/user-attachments/assets/fee78761-1229-49de-8de2-6f84e50c554c" />
 
 
 </td>
