@@ -13,7 +13,7 @@ Since open source helps me, I make my own projects open source too <br>
 
 <details>
 <summary>more</summary>
-<table width="2000">
-<tr>
-<td width="2000"><img align="center" width="100%" alt="🦑" src="/bigass.svg"></td>
+<img align="center" width="100%" alt="🦑" src="/bigass.svg">
+  
+<img align="" width="" alt="🦑" src="/bottom.svg">
 </tr>
