@@ -13,7 +13,7 @@ Since open source helps me, I make my own projects open source too <br>
 
 <details>
 <summary>more</summary>
-<img align="center" width="100%" alt="🦑" src="/bigass.svg">
   
-<img align="" width="" alt="🦑" src="/bottom.svg">
-</tr>
+![Top Metrics](./top.svg)
+![Bottom Metrics](./bottom.svg)
+
