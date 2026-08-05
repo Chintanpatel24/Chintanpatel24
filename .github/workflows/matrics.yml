@@ -2,11 +2,7 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+    - cron: "0 0 * * *"  # runs every day at midnight UTC
 
 permissions:
   contents: write
@@ -23,13 +19,13 @@ jobs:
           token: ${{ secrets.METRICS }}
           committer_token: ${{ secrets.METRICS }}
 
-          user: YOUR_GITHUB_USERNAME
+          user: Chintanpatel24
           template: classic
           base: header, activity, community, repositories, metadata
 
           config_display: large
           config_padding: 0, 3%
-          config_timezone: Asia/Tokyo
+          config_timezone: Asia/India
 
           plugin_people: yes
           plugin_people_types: followers
@@ -72,4 +68,4 @@ jobs:
           plugin_followup_sections: repositories
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
