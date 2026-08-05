@@ -2,7 +2,8 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs every day at midnight UTC
+    - cron: "30 18 * * *"
+  workflow_dispatch:      # ← lets you run manually anytime
 
 permissions:
   contents: write
@@ -25,7 +26,7 @@ jobs:
 
           config_display: large
           config_padding: 0, 3%
-          config_timezone: Asia/India
+          config_timezone: Asia/Kolkata
 
           plugin_people: yes
           plugin_people_types: followers
