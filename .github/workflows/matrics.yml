@@ -16,6 +16,26 @@ jobs:
           filename: test.svg
           token: ${{ secrets.METRICS }}
           committer_token: ${{ secrets.METRICS }}
+          user: YOUR_USERNAME
+          template: classic
+          base: header, activityname: Test Metrics
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  test-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: test
+        uses: lowlighter/metrics@latest
+        with:
+          filename: test.svg
+          token: ${{ secrets.METRICS }}
+          committer_token: ${{ secrets.METRICS }}
           user: Chintanpatl24
           template: classic
           base: header, activity
