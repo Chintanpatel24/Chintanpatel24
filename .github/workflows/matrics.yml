@@ -16,6 +16,6 @@ jobs:
           filename: test.svg
           token: ${{ secrets.METRICS }}
           committer_token: ${{ secrets.METRICS }}
-          user: Chintanpatel24
+          user: Chintanpatl24
           template: classic
           base: header, activity
