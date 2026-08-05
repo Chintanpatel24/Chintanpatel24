@@ -11,3 +11,7 @@ Since open source helps me, I make my own projects open source too <br>
 > You’ll find everything from `file&project managers` to full `IDEs`,n from `Linux dotfiles` to `largersoftwares` and `setups`, and even from `OSINT deskbords` to `eth-hacking tools`.<br>
 > Because everything is open source, I tried to maintain each, so [contribut hear](https://github.com/Chintanpatel24/pinme-Ex) !!
 
+<details>
+<summary>more</summary>
+  
+![Metrics](https://raw.githubusercontent.com/Chintanpatel24/Chintanpatel24/metrics/github-metrics.svg)   
