@@ -3,7 +3,7 @@ name: GitHub Metrics
 on:
   schedule:
     - cron: "30 18 * * *"
-  workflow_dispatch:      # ← lets you run manually anytime
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -54,6 +54,37 @@ jobs:
 
           plugin_stars: yes
           plugin_stars_limit: 8
+
+      - name: Generate middle metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: midd.svg
+          token: ${{ secrets.METRICS }}
+          committer_token: ${{ secrets.METRICS }}
+
+          user: Chintanpatel24
+          base: ""
+
+          # =============================================
+          # Languages from your starred repos
+          # =============================================
+          plugin_languages: yes
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_other: yes
+
+          # =============================================
+          # Licenses overview of your repos
+          # =============================================
+          plugin_licenses: yes
+          plugin_licenses_setup: yes
+          plugin_licenses_ratio: yes
+          plugin_licenses_legal: yes
 
       - name: Generate bottom metrics
         uses: lowlighter/metrics@latest
