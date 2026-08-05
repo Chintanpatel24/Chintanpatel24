@@ -13,5 +13,7 @@ Since open source helps me, I make my own projects open source too <br>
 
 <details>
 <summary>more</summary>
-  
-![Metrics](https://raw.githubusercontent.com/Chintanpatel24/Chintanpatel24/metrics/github-metrics.svg)   
+<table width="2000">
+<tr>
+<td width="2000"><img align="center" width="100%" alt="🦑" src="/bigass.svg"></td>
+</tr>
