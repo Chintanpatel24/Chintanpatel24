@@ -1,21 +1,75 @@
-name: Test Metrics
+name: GitHub Metrics
 
 on:
+  schedule:
+    - cron: "0 12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
-  test-metrics:
+  github-metrics:
     runs-on: ubuntu-latest
+
     steps:
-      - name: test
+      - name: Generate top metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: test.svg
+          filename: top.svg
           token: ${{ secrets.METRICS }}
           committer_token: ${{ secrets.METRICS }}
-          user: Chintanpatel24
+
+          user: YOUR_GITHUB_USERNAME
           template: classic
-          base: header, activity
+          base: header, activity, community, repositories, metadata
+
+          config_display: large
+          config_padding: 0, 3%
+          config_timezone: Asia/Tokyo
+
+          plugin_people: yes
+          plugin_people_types: followers
+
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+
+          plugin_lines: yes
+
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+
+          plugin_languages: yes
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+
+          plugin_stars: yes
+          plugin_stars_limit: 8
+
+      - name: Generate bottom metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: bottom.svg
+          token: ${{ secrets.METRICS }}
+          committer_token: ${{ secrets.METRICS }}
+
+          user: Chintanpatel24
+          base: ""
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
