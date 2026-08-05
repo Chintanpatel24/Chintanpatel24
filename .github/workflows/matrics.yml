@@ -1,4 +1,5 @@
 name: bigass metrics
+
 on:
   schedule:
     - cron: "0 12 * * *"
@@ -7,6 +8,10 @@ on:
       - master
       - main
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   github-metrics-personal:
     runs-on: ubuntu-latest
@@ -16,13 +21,13 @@ jobs:
         with:
           # Output
           filename: bigass.svg
-          
+
           # Your GitHub token
           token: ${{ secrets.METRICS }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS }}
 
           # Options
-          user: Coordinate-Cat
+          user: YOUR_USERNAME        # ← change this
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
@@ -30,8 +35,6 @@ jobs:
           config_timezone: Asia/Tokyo
           plugin_people: yes
           plugin_people_types: followers
-#           plugin_followup: yes
-#           plugin_followup_sections: repositories
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: characters, watching, reading, favorites
@@ -43,14 +46,6 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-#          plugin_habits: yes
-#          plugin_habits_facts: no
-#          plugin_habits_charts: yes
-#          plugin_habits_charts_type: chartist
-#           plugin_pagespeed: yes
-#           plugin_pagespeed_url: .user.website
-#           plugin_isocalendar: yes
-#           plugin_isocalendar_duration: half-year
           plugin_lines: yes
           plugin_topics: yes
           plugin_topics_limit: 0
@@ -72,9 +67,8 @@ jobs:
         with:
           filename: bottom.svg
           token: ${{ secrets.METRICS }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS }}
           base: ""
-#           config_order: ""
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_isocalendar: yes
