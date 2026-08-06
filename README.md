@@ -14,6 +14,7 @@ Since open source helps me, I make my own projects open source too <br>
 <details>
 <summary>more</summary>
 
+<div align=center>
 <table>
 <tr>
 <td>
