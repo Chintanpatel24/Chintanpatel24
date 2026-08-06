@@ -2,7 +2,8 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "30 18 * * *"
+    # Runs every hour, every day (24 commits a day)
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -20,38 +21,28 @@ jobs:
           token: ${{ secrets.METRICS }}
           committer_token: ${{ secrets.METRICS }}
 
-          user: Chintanpatel24
+          # Using the secrets you created
+          committer_name: ${{ secrets.GIT_NAME }}
+          committer_email: ${{ secrets.GIT_EMAIL }}
+          committer_message: "update metrics (top) [skip ci]"
+
+          user: mynameee
           template: classic
           base: header, activity, community, repositories, metadata
-
           config_display: large
           config_padding: 0, 3%
           config_timezone: Asia/Kolkata
-
           plugin_people: yes
-          plugin_people_types: followers
-
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-
           plugin_lines: yes
-
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-
           plugin_languages: yes
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-
           plugin_stars: yes
           plugin_stars_limit: 8
 
@@ -61,30 +52,19 @@ jobs:
           filename: midd.svg
           token: ${{ secrets.METRICS }}
           committer_token: ${{ secrets.METRICS }}
+          
+          # Using the secrets you created
+          committer_name: ${{ secrets.GIT_NAME }}
+          committer_email: ${{ secrets.GIT_EMAIL }}
+          committer_message: "update metrics (middle) [skip ci]"
 
-          user: Chintanpatel24
+          user: mynameee
           base: ""
-
-          # =============================================
-          # Languages from your starred repos
-          # =============================================
           plugin_languages: yes
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_other: yes
-
-          # =============================================
-          # Licenses overview of your repos
-          # =============================================
           plugin_licenses: yes
           plugin_licenses_setup: yes
-          plugin_licenses_ratio: yes
-          plugin_licenses_legal: yes
 
       - name: Generate bottom metrics
         uses: lowlighter/metrics@latest
@@ -92,12 +72,15 @@ jobs:
           filename: bottom.svg
           token: ${{ secrets.METRICS }}
           committer_token: ${{ secrets.METRICS }}
+          
+          # Using the secrets you created
+          committer_name: ${{ secrets.GIT_NAME }}
+          committer_email: ${{ secrets.GIT_EMAIL }}
+          committer_message: "update metrics (bottom) [skip ci]"
 
-          user: Chintanpatel24
+          user: mynameee
           base: ""
-
           plugin_followup: yes
           plugin_followup_sections: repositories
-
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
