@@ -14,15 +14,18 @@ Since open source helps me, I make my own projects open source too <br>
 <details>
 <summary>more</summary>
 
-<div align=center>
-<table>
-<tr>
-<td>
 
+
+
+
+<table border="1">
+  <tr>
+    <td rowspan="2"><div align=center>
+      
 ![Top Metrics](./top.svg)
 ![Bottom Metrics](./bottom.svg)
-</td>
-<td>
+    </td>
+    <td>
 
 <!--
   
@@ -82,7 +85,8 @@ This is the **only** 10-digit pandigital number in existence that is **Polydivis
 *   **Result**: **3,816,547,290**.
 *   **Meaning**: A **Polydivisible Pandigital Number**, representing a perfect mathematical order where every prefix of the number is divisible by its length.
 
--->
+--> 
+
 <div align=center>
 <img width="63" alt="3" src="https://github.com/user-attachments/assets/2b4bfdb4-e60d-4db0-9809-aa6b09c06682" /><br>
 <img width="82"  alt="8" src="https://github.com/user-attachments/assets/55f35f97-0461-40ee-bdbd-7b7369c32ecc" /><br>
@@ -94,11 +98,19 @@ This is the **only** 10-digit pandigital number in existence that is **Polydivis
 <img width="84" alt="2" src="https://github.com/user-attachments/assets/2e31627f-0300-4787-823a-9c6efd1e8862" /><br>
 <img width="147"  alt="9" src="https://github.com/user-attachments/assets/895a5219-2b79-4dcd-9687-a1ee5be49f9d" /><br>
 <img width="92"  alt="0" src="https://github.com/user-attachments/assets/592b2145-4f54-41c0-b0ab-6625347046f1" /><br>
-  
-[can't get ?](https://github.com/Chintanpatel24/Chintanpatel24/blob/main/README.md?plain=1)
+
+
+
 </div>
 </td>
-</tr>
-</table>
+  </tr>
+  <tr>
+    <td><div align=center>
+      
+[can't get ?](https://github.com/Chintanpatel24/Chintanpatel24/blob/main/README.md?plain=1)
+    </td>
+  </tr>
+</table>   
+
 
 <td width="2000"><img src="https://github-trophies.vercel.app/?username=Chintanpatel24&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
