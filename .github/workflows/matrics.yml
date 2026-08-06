@@ -2,6 +2,7 @@ name: GitHub Metrics
 
 on:
   schedule:
+    # Runs every hour, every day (Automatic)
     - cron: "0 * * * *"
   workflow_dispatch:
 
@@ -17,26 +18,79 @@ jobs:
         with:
           filename: top.svg
           token: ${{ secrets.METRICS }}
-          
-          # Using your PAT for the commit itself
           committer_token: ${{ secrets.METRICS }}
+          
+          # Force commit as YOU (Green Squares + Contributor status)
           committer_name: ${{ secrets.GIT_NAME }}
           committer_email: ${{ secrets.GIT_EMAIL }}
-          
-          # This forces a unique commit hash every time
-          committer_message: "feat: update metrics - $(date +'%Y-%m-%d') [skip ci]"
+          committer_message: "feat: update top metrics - $(date +'%Y-%m-%d %H:%M:%S') [skip ci]"
 
           user: Chintanpatel24
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+          config_order: base.header, isocalendar, languages, notable, people, habits, achievements, topics
           
-          # This forces the API to get new data, not cached data
-          use_precomputed_data: no
+          # PEOPLE (Followers & Following)
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_people_limit: 28
+          plugin_people_size: 28
+          plugin_people_shuffle: yes
 
+          # ACHIEVEMENTS (Badges)
           plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+
+          # LANGUAGES (Detailed code stats)
           plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+
+          # HABITS (Activity patterns)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # NOTABLE (Open Source contributions)
+          plugin_notable: yes
+          plugin_notable_from: all
+
+          # REACTIONS (Community impact)
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_details: percentage
+
+          # LINES (Code volume)
           plugin_lines: yes
+
+          # TOPICS (Tech stack icons)
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+
+      - name: Generate middle metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: midd.svg
+          token: ${{ secrets.METRICS }}
+          committer_token: ${{ secrets.METRICS }}
+          committer_name: ${{ secrets.GIT_NAME }}
+          committer_email: ${{ secrets.GIT_EMAIL }}
+          committer_message: "feat: update middle metrics [skip ci]"
+
+          user: Chintanpatel24
+          base: ""
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_licenses: yes
+          plugin_licenses_setup: yes
 
       - name: Generate bottom metrics
         uses: lowlighter/metrics@latest
@@ -46,9 +100,11 @@ jobs:
           committer_token: ${{ secrets.METRICS }}
           committer_name: ${{ secrets.GIT_NAME }}
           committer_email: ${{ secrets.GIT_EMAIL }}
-          committer_message: "feat: update metrics bottom [skip ci]"
+          committer_message: "feat: update bottom metrics [skip ci]"
 
           user: Chintanpatel24
           base: ""
+          plugin_followup: yes
+          plugin_followup_sections: repositories
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
