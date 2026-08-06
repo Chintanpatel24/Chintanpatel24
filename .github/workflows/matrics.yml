@@ -26,7 +26,7 @@ jobs:
           # This forces a unique commit hash every time
           committer_message: "feat: update metrics - $(date +'%Y-%m-%d') [skip ci]"
 
-          user: mynameee
+          user: Chintanpatel24
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
@@ -48,7 +48,7 @@ jobs:
           committer_email: ${{ secrets.GIT_EMAIL }}
           committer_message: "feat: update metrics bottom [skip ci]"
 
-          user: mynameee
+          user: Chintanpatel24
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
