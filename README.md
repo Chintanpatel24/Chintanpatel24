@@ -95,7 +95,7 @@ This is the **only** 10-digit pandigital number in existence that is **Polydivis
 <img width="147"  alt="9" src="https://github.com/user-attachments/assets/895a5219-2b79-4dcd-9687-a1ee5be49f9d" /><br>
 <img width="92"  alt="0" src="https://github.com/user-attachments/assets/592b2145-4f54-41c0-b0ab-6625347046f1" /><br>
   
-[can't](https://github.com/Chintanpatel24/Chintanpatel24/blob/main/README.md?plain=1)
+[can't get ?](https://github.com/Chintanpatel24/Chintanpatel24/blob/main/README.md?plain=1)
 </div>
 </td>
 </tr>
