@@ -1,4 +1,4 @@
-  ```mermaid
+```mermaid
 mindmap
 root)Life is Linux & Electronics(
  ) Wanna be yours(
