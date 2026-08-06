@@ -14,10 +14,12 @@ Since open source helps me, I make my own projects open source too <br>
 <details>
 <summary>more</summary>
 
-  <div align=center>
+  
     
 ![Top Metrics](./top.svg)
+![Bottom Metrics](./bottom.svg)
 
+<!--
 <table>
   <tr>
     <td>
@@ -26,7 +28,6 @@ Since open source helps me, I make my own projects open source too <br>
     </td>
     <td>
     
-<!-- ![Middle Metrics](./midd.svg) -->
 <img width="610" height="490" alt="toshiba" src="https://github.com/user-attachments/assets/fee78761-1229-49de-8de2-6f84e50c554c" />
 
 
@@ -34,5 +35,6 @@ Since open source helps me, I make my own projects open source too <br>
   </tr>
 
 </table>
+-->
 
 <td width="2000"><img src="https://github-trophies.vercel.app/?username=Chintanpatel24&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
