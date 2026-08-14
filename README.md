@@ -100,7 +100,6 @@ This is the **only** 10-digit pandigital number in existence that is **Polydivis
 <img width="92"  alt="0" src="https://github.com/user-attachments/assets/592b2145-4f54-41c0-b0ab-6625347046f1" /><br>
 
 
-
 </div>
 </td>
   </tr>
@@ -112,5 +111,10 @@ This is the **only** 10-digit pandigital number in existence that is **Polydivis
   </tr>
 </table>   
 
+<!--
+<img width="1255" height="367" alt="Screenshot 2026-08-14 105421" src="https://github.com/user-attachments/assets/4001557c-18cb-44ca-a883-c0a669f3b3c5" />
+<img width="1250" height="369" alt="Screenshot 2026-08-14 105213" src="https://github.com/user-attachments/assets/cc954c3e-3684-4b6d-9c0c-6fecf987a2b1" />
+
+-->
 
 <td width="2000"><img src="https://github-trophies.vercel.app/?username=Chintanpatel24&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
