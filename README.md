@@ -118,4 +118,7 @@ This is the **only** 10-digit pandigital number in existence that is **Polydivis
 
 -->
 
+<div alifn=center>
 <td width="2000"><img src="https://github-trophies.vercel.app/?username=Chintanpatel24&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chintanpatel24&theme=meta-dark&hide_border=flase)](https://git.io/streak-stats)
