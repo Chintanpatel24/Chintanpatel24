@@ -1,6 +1,7 @@
 ### hi, Aboutme !!
-I choose technology over fields, so I am not interested in one field like w3,cyber,ml,appdev, etc..<br>
-So there's no boundary for me - just a tech<br>
+<!--I choose technology over fields, so I am not interested in one field like w3,cyber,ml,appdev, etc..<br>
+So there's no boundary for me - -->
+just a tech<br>
 I code it because i want it& i enjoy it. <br>
 Every toy-project I create solves a problem I have or replaces something that doesn’t meet my needs. <br>
 so <br>
