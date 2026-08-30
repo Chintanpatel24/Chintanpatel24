@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 16.4mb of code in 1418 edited files across 811 commits</small>
+                <small>estimation from 16.6mb of code in 1470 edited files across 817 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.4057634056743" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="230.4057634056743" y="0" width="83.27056381260914" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="313.67632721828346" y="0" width="60.713054490586124" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="374.38938170886956" y="0" width="27.15114851293252" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="401.54053022180204" y="0" width="20.753459977668395" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="422.29399019947044" y="0" width="13.589001238785064" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="435.88299143825554" y="0" width="13.168826205421933" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="449.05181764367745" y="0" width="10.948182356322532" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="221.0168277890917" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="221.0168277890917" y="0" width="83.93928182766776" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="304.9561096167595" y="0" width="58.23902367090332" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="363.19513328766277" y="0" width="26.044750905788646" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="389.2398841934515" y="0" width="25.184892882675868" height="8" fill="#44a51c"/>
+                    <rect mask="url(#languages-bar)" x="414.4247770761273" y="0" width="19.907765422673368" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="434.33254249880065" y="0" width="13.035255291467013" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="447.36779779026773" y="0" width="12.632202209732306" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -58,6 +58,12 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#44a51c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        QML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Go
@@ -70,15 +76,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Shell
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        QML
+                        Shell
                     </div>
                 </div>
             </section>
