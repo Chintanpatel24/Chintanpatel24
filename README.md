@@ -1,6 +1,11 @@
-### hi, Aboutme !!
+<img width="3754" height="2249" alt="1304772" src="https://github.com/user-attachments/assets/812a3124-dcb5-466f-87ef-2d7bacb8aca7" />
+<details>
+  <summary>Aboutme</summary>
+  
+### hi!!
 <!--I choose technology over fields, so I am not interested in one field like w3,cyber,ml,appdev, etc..<br>
 So there's no boundary for me - -->
+About me !! - it's <br>
 just a tech<br>
 I code it because i want it& i enjoy it. <br>
 Every toy-project I create solves a problem I have or replaces something that doesn’t meet my needs. <br>
