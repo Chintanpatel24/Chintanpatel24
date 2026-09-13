@@ -1,37 +1,3 @@
-<img width="3754" height="2249" alt="1304772" src="https://github.com/user-attachments/assets/812a3124-dcb5-466f-87ef-2d7bacb8aca7" />
-<details>
-  <summary></summary>
-  
-### hi!!
-<!--I choose technology over fields, so I am not interested in one field like w3,cyber,ml,appdev, etc..<br>
-So there's no boundary for me - -->
-About me !! - it's <br>
-just a tech<br>
-I code it because i want it& i enjoy it. <br>
-Every toy-project I create solves a problem I have or replaces something that doesn’t meet my needs. <br>
-so <br>
-I use open source , swarm it- making with it -without spending my money on API bullies. <br>
-Since open source helps me, I make my own projects open source too <br>
-> You’ll find everything from `file&project managers` to full `IDEs`,n from `Linux dotfiles` to `largersoftwares` and `setups`, and even from `OSINT deskbords` to `eth-hacking tools`.<br>
-> Because everything is open source, I tried to maintain each, [contribut hear](https://github.com/Chintanpatel24/pinme-Ex) !! <br>
-- just use `@` i will be there for sure !!
-
-<details>
-<summary>more</summary>
-
-
-
-
-
-<table border="1">
-  <tr>
-    <td rowspan="2"><div align=center>
-      
-![Top Metrics](./top.svg)
-![Bottom Metrics](./bottom.svg)
-    </td>
-    <td>
-
 <!--
   
 # The Decimal System and the Unique Pandigital Number
@@ -91,6 +57,43 @@ This is the **only** 10-digit pandigital number in existence that is **Polydivis
 *   **Meaning**: A **Polydivisible Pandigital Number**, representing a perfect mathematical order where every prefix of the number is divisible by its length.
 
 --> 
+
+
+
+
+<img width="3754" height="2249" alt="1304772" src="https://github.com/user-attachments/assets/812a3124-dcb5-466f-87ef-2d7bacb8aca7" />
+<details>
+  <summary></summary>
+  
+### hi!!
+<!--I choose technology over fields, so I am not interested in one field like w3,cyber,ml,appdev, etc..<br>
+So there's no boundary for me - -->
+About me !! - it's <br>
+just a tech<br>
+I code it because i want it& i enjoy it. <br>
+Every toy-project I create solves a problem I have or replaces something that doesn’t meet my needs. <br>
+so <br>
+I use open source , swarm it- making with it -without spending my money on API bullies. <br>
+Since open source helps me, I make my own projects open source too <br>
+> You’ll find everything from `file&project managers` to full `IDEs`,n from `Linux dotfiles` to `largersoftwares` and `setups`, and even from `OSINT deskbords` to `eth-hacking tools`.<br>
+> Because everything is open source, I tried to maintain each, [contribut hear](https://github.com/Chintanpatel24/pinme-Ex) !! <br>
+- just use `@` i will be there for sure !!
+
+<details>
+<summary>more</summary>
+
+
+
+
+
+<table border="1">
+  <tr>
+    <td rowspan="2"><div align=center>
+      
+![Top Metrics](./top.svg)
+![Bottom Metrics](./bottom.svg)
+    </td>
+    <td>
 
 <div align=center>
 <img width="63" alt="3" src="https://github.com/user-attachments/assets/2b4bfdb4-e60d-4db0-9809-aa6b09c06682" /><br>
