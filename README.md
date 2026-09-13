@@ -1,6 +1,6 @@
 <img width="3754" height="2249" alt="1304772" src="https://github.com/user-attachments/assets/812a3124-dcb5-466f-87ef-2d7bacb8aca7" />
 <details>
-  <summary>Aboutme</summary>
+  <summary></summary>
   
 ### hi!!
 <!--I choose technology over fields, so I am not interested in one field like w3,cyber,ml,appdev, etc..<br>
