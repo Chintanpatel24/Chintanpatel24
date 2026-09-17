@@ -74,6 +74,8 @@ Your internet is not slow !!
 So there's no boundary for me - -->
 About me !! - it's <br>
 just a tech<br>
+and <br>
+I can feel low cortisol even if there's the highest stress. <br>
 I code it because i want it& i enjoy it. <br>
 Every toy-project I create solves a problem I have or replaces something that doesn’t meet my needs. <br>
 so <br>
