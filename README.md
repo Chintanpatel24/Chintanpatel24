@@ -56,12 +56,16 @@ This is the **only** 10-digit pandigital number in existence that is **Polydivis
 *   **Result**: **3,816,547,290**.
 *   **Meaning**: A **Polydivisible Pandigital Number**, representing a perfect mathematical order where every prefix of the number is divisible by its length.
 
+
+<img width="3754" height="2249" alt="1304772" src="https://github.com/user-attachments/assets/812a3124-dcb5-466f-87ef-2d7bacb8aca7" />
+
+
 --> 
 
 
+<img width="2752" height="1536" alt="3" src="https://github.com/user-attachments/assets/1462fa54-6dd7-479d-ae09-2fce161b58c7" />
 
 
-<img width="3754" height="2249" alt="1304772" src="https://github.com/user-attachments/assets/812a3124-dcb5-466f-87ef-2d7bacb8aca7" />
 <details>
   <summary></summary>
   
