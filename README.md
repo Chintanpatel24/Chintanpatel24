@@ -63,7 +63,7 @@ This is the **only** 10-digit pandigital number in existence that is **Polydivis
 --> 
 
 <img width="842" height="469" alt="lol" src="https://github.com/user-attachments/assets/d596d34f-bfbb-4027-a499-8e3bd6bfbaea" /> <br>
-Your internet is not slow !!
+Your internet is't slow !!
 
 
 <details>
