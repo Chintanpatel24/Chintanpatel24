@@ -61,13 +61,15 @@ This is the **only** 10-digit pandigital number in existence that is **Polydivis
 <img width="2752" height="1536" alt="3" src="https://github.com/user-attachments/assets/1462fa54-6dd7-479d-ae09-2fce161b58c7" />
 
 --> 
-
-
+<div align=center>
 <img width="426" height="240" alt="roi" src="https://github.com/user-attachments/assets/f243855b-5079-40db-8d94-629ef54b1175" />
-<details>
+</div>
+  <details>
   <summary></summary>
-<img width="842" height="469" alt="lol" src="https://github.com/user-attachments/assets/d596d34f-bfbb-4027-a499-8e3bd6bfbaea" /> <br>
-Your internet is't slow !!
+<div align=center>
+    <img width="842" height="469" alt="lol" src="https://github.com/user-attachments/assets/d596d34f-bfbb-4027-a499-8e3bd6bfbaea" /> <br>
+</div>
+  Your internet is't slow !!
 
 
 <details>
