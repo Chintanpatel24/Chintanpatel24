@@ -63,6 +63,7 @@ This is the **only** 10-digit pandigital number in existence that is **Polydivis
 --> 
 <div align=center>
 <img width="426" height="240" alt="roi" src="https://github.com/user-attachments/assets/f243855b-5079-40db-8d94-629ef54b1175" />
+  Low cortisol !!
 </div>
   <details>
   <summary></summary>
